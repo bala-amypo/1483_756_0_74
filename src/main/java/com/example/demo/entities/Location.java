@@ -2,5 +2,6 @@ public class Location
 {
     @id
     private Long id;
-    pri
+    private String name;
+    private
 }
